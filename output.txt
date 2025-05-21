@@ -1,0 +1,4 @@
+Minimum: -45
+Maximum: 654
+Sum: 773
+Negative count: 1
